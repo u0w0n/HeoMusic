@@ -1,6 +1,6 @@
 var userId = "7508295533";
 var userServer = "netease";
-var userType = "artist";
+var userType = "playlist";
 // var localMusic = [{
 //     name: '重生之我在异乡为异客',
 //     artist: '王睿卓',
